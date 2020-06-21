@@ -1,11 +1,11 @@
 ---
 layout: frontpage
-title: Ben
-description: Blue Ham is a PhD candidate at Broom University. 
-keywords: Blue, Ham, treats, recycling, mail, being a good boy
+title: Liu
+description: Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University. 
+keywords: Bin, Liu, Postdoc
 ---
 
-Benben is a PhD candidate at Broom University. His research interests include analyzing the effectiveness of treat-based incentives such as recycling and getting the mail, as well as designing new methods to protect humans from the adverse effects of rolling trash receptacles.
+Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -18,14 +18,14 @@ Benben is a PhD candidate at Broom University. His research interests include an
 
     <div class="row-fluid">
         <div class="span5">
-            Blue Ham<br/>
-            Email: WOOFWOOF@goodboy.com<br/>
+            Bin Liu<br/>
+            Email: bliu.sjtu@gmail.com<br/>
         </div>
 
         <div class="span2">
-        <a href="../assets/headshot.jpg">
-            <img src="../assets/headshot.jpg"
-                  title="Blue Ham" alt="Blue Ham"/></a>
+        <a href="../assets/bliu.jpeg">
+            <img src="../assets/bliu.jpeg"
+                  title="Bin Liu" alt="Bin Liu"/></a>
         </div>
     </div>
 </div>
