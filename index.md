@@ -5,7 +5,7 @@ description: Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University.
 keywords: Bin, Liu, Postdoc
 ---
 
-Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University. 
+**Bin Liu** is a Postdoc Research Fellow in Shanghai Ocean University. 
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
@@ -34,8 +34,11 @@ Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University.
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="{{ BASE_PATH }}/assets/CV.pdf">cv</a></li>
-          <li><a href="https://github.com/mbcarlos">GitHub</a></li>
-          <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+          <li><a href="https://github.com/bliuSHOU">GitHub</a></li>
       </ul>
   </div>
 </div>
+
+<!--
+    <li><a href="https://twitter.com/dog_feelings">Twitter (@dog_feelings)</a></li>
+-->
