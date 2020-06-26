@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Liu
+title: Liu's Academic Page 
 description: Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University. 
 keywords: Bin, Liu, Postdoc
 ---
