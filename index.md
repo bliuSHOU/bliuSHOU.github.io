@@ -5,7 +5,11 @@ description: Bin Liu is a Postdoc Research Fellow in Shanghai Ocean University.
 keywords: Bin, Liu, Postdoc
 ---
 
-**Bin Liu** is a Postdoc Research Fellow in Shanghai Ocean University. 
+**Bin Liu** is a Postdoc Research Fellow in Shanghai Ocean University. His research focuses include:
+- AI Oceanography
+- Machine learning and deep learning for remote sensing information mining
+- Radar remote sensing 
+- Image segmentation and classification
 
 [curriculum vitae ![CV as pdf]({{ BASE_PATH }}/pages/icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/CV.pdf)<br/>
 
